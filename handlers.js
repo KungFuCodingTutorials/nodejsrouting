@@ -1,5 +1,3 @@
-const path = require("path/posix");
-
 let handlers = {};
 
 // Index handler
